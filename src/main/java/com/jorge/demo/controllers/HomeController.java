@@ -1,5 +1,4 @@
 // package com.jorge.demo.controllers;
-// package com.jorge.demo;
 
 // import org.springframework.stereotype.Controller;
 // import org.springframework.web.bind.annotation.GetMapping;

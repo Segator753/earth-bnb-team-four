@@ -29,6 +29,8 @@ public class UsuarioController {
     public String index(Model model) {
         List<Usuario> usuarios = usuarioServicio.findAll();
 
+        System.out.println("Holas");
+
         model.addAttribute("usuarios", usuarios);
 
         System.out.println(usuarios);
